@@ -1,0 +1,17 @@
+#ball-container, #ball-container * {
+    margin:0;
+    padding:0;
+    width: inherit;
+}
+ 
+#ball-container
+{
+    height: 100%;
+    position: absolute;
+    left: 23%;
+    top: 35%;
+}
+#ball-container #ball-wrapper
+{
+    width: 80px
+}
